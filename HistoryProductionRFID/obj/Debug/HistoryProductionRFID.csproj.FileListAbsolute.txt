@@ -1,0 +1,16 @@
+E:\HistoryProductionRFID\HistoryProductionRFID\bin\Debug\HistoryProductionRFID.exe.config
+E:\HistoryProductionRFID\HistoryProductionRFID\bin\Debug\HistoryProductionRFID.exe
+E:\HistoryProductionRFID\HistoryProductionRFID\bin\Debug\HistoryProductionRFID.pdb
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.csprojAssemblyReference.cache
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.DBSetting.resources
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.Form1.resources
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.Properties.Resources.resources
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.csproj.GenerateResource.cache
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.csproj.CoreCompileInputs.cache
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.exe
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.pdb
+E:\HistoryProductionRFID\HistoryProductionRFID\bin\Debug\HistoryProductionRFID.exe.manifest
+E:\HistoryProductionRFID\HistoryProductionRFID\bin\Debug\HistoryProductionRFID.application
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.TrustInfo.xml
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.exe.manifest
+E:\HistoryProductionRFID\HistoryProductionRFID\obj\Debug\HistoryProductionRFID.application
